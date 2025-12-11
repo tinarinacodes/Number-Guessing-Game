@@ -44,11 +44,8 @@
       letter-spacing: -0.5px;
     }
 
-    #stage > p {
-      font-size: 20px;
-      color: #555;
-      margin: 15px 0;
-      line-height: 1.6;
+    #guide {
+      font-size: 22px;
       font-weight: 600;
     }
 
@@ -57,7 +54,7 @@
       font-weight: 600;
       color: #667eea;
       margin: 20px 0;
-      font-size: 20px;
+      font-size: 22px;
     }
 
     #input {
@@ -108,8 +105,8 @@
     #chances {
       margin-top: 25px;
       padding: 12px 20px;
-      font-weight: 700;
-      font-size: 30px;
+      font-weight: 500;
+      font-size: 22px;
       display: inline-block;
       min-width: 150px;
     }
